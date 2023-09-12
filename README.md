@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gabriel Santos👋
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/devgabrielsantos/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devgabrielsantos)
+
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-santosdev&show_icons=true&theme=dracula&count_private=true)
